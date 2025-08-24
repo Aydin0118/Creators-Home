@@ -16,3 +16,7 @@ Get what you need by checking the md file in the folder where you need the conte
 * [Windows10-11激活软件](Windows10-11激活软件/read.md)
   
   Windows 10-11 Activation Software
+
+* [开源免费音乐软件](开源免费音乐软件/read.md)
+  
+  An open-source and free music streaming player
