@@ -10,9 +10,9 @@ Get what you need by checking the md file in the folder where you need the conte
 * [数据恢复软件（免费集成版 Language：中文）](数据恢复软件/read.md)
   
   Data Recovery Software (Free Integrated Version) (Language: Chinese)
-* 硬盘分区助手专业版
+* [硬盘分区助手专业版](硬盘分区助手专业版/read.md)
   
   Hard Disk Partition Assistant Professional Edition
-* Windows10-11激活软件
+* [Windows10-11激活软件](Windows10-11激活软件/read.md)
   
   Windows 10-11 Activation Software
