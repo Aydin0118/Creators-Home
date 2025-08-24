@@ -22,6 +22,8 @@ Discord聊天室: https://discord.gg/JqPjKxE
 
 在此对新功能提出建议和投票: https://nuclear.featureupvote.com/
 
+>[English](read-english.md)
+
 
 ## nuclear是什么？
 nuclear是一个从互联网的各个角落拉取免费的资源的免费流媒体播放器。
